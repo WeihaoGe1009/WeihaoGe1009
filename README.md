@@ -8,7 +8,13 @@
 - Microbiome pangenomics
 - DL-powered cell segmentation
 
-🛠️ Tools I work with: Python, R, Nextflow, Dash, Shiny, HuggingFace, GATK, Cellpose, DeepCell,
+🛠️ Tools I work with: Python, R, Nextflow, Dash, Shiny, HuggingFace, GATK, Cellpose, DeepCell
+
+💡 **My immigration-friendly portfolio is under construction.**  
+Each project is designed to be small, reproducible, and applicable to real-world bio/clinical workflows. Seeking Canada immigration and employment
+
+---
+
 
 📌 First projects launching June 2025 — check back soon!
 
