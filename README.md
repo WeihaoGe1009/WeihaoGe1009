@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Weihao Ge
 
-<!--
-**WeihaoGe1009/WeihaoGe1009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Currently building a portfolio focused on:**
+- Interface to generate Clinical documents with LLMs
+- scRNA-seq dashboards
+- Reproducible genomics pipelines
+- ML models for clinical and bio data
+- Microbiome pangenomics
+- DL-powered cell segmentation
 
-Here are some ideas to get you started:
+🛠️ Tools I work with: Python, R, Nextflow, Dash, Shiny, HuggingFace, GATK, Cellpose, DeepCell,
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 First projects launching June 2025 — check back soon!
+
+📫 [Contact me on LinkedIn](https://www.linkedin.com/in/weihao-ge-22597486/) or via [Email](whgephy@gmail.com)
